@@ -29,10 +29,10 @@ I'm a passionate developer with diverse interests spanning in User experience, M
 
 ## 📊 GITHUB STATS
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ifaixal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ifaixal]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ifaixal&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
@@ -51,6 +51,7 @@ I'm a passionate developer with diverse interests spanning in User experience, M
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Socket.iO](https://img.shields.io/badge/Socket.io-4.1.3-010101??style=flat-square&logo=Socket.io&logoColor=white)
