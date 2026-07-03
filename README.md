@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [YOUR_NAME]
+# Hi there! 👋 I'm Faisal Iqbal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[YOUR_TAGLINE_1];[YOUR_TAGLINE_2];[YOUR_TAGLINE_3])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[Full Stack Developer];[Ui/UX Novice];[Data Engineering Begineer])](https://git.io/typing-svg)
 
 ---
 
