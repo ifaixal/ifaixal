@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Faisal Iqbal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+UI%2FUX+Novice+%7C+Machine+Learning+Beginner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+UI%2FUX+Novice+%7C+Operations+Data+Specialist)](https://git.io/typing-svg)
 
 ---
 
